@@ -1,0 +1,43 @@
+#adminmenu #box_user {
+    margin: 10px;
+    border: solid #9e9e9e 1px;
+    border-radius: 10px;
+    padding: 5px 0 3px;
+    text-align: center;
+}
+#adminmenu #box_user a .dashicons-before {
+    display: none;
+}
+#adminmenu #box_user a img {
+    display: table;
+    margin: 0 auto;
+    border-radius: 50%;
+    overflow: hidden;
+    border: solid 2px white;
+    margin-bottom: 5px;
+}
+#adminmenu #box_user a .wp-menu-name {
+    color: #f1f1f1;
+    text-transform: capitalize;
+    font-size: 14px;
+}
+#adminmenu #box_user:hover {
+    background: #AB1582;
+	border-color: rgb(240, 120, 208);
+}
+#adminmenu #box_user:hover a img {
+    border-color: rgb(240, 120, 208);
+}
+#adminmenu #box_user:hover a .wp-menu-name {
+    color: white;
+}
+
+#adminmenu .wp-has-current-submenu .wp-submenu .wp-submenu-head, #adminmenu .wp-menu-arrow, #adminmenu .wp-menu-arrow div, #adminmenu li.current a.menu-top, #adminmenu li.wp-has-current-submenu a.wp-has-current-submenu, .folded #adminmenu li.current.menu-top, .folded #adminmenu li.wp-has-current-submenu {
+    background: #AB1582;
+    color: white !important;
+	font-weight: bold;
+}
+
+#adminmenu li.menu-top:hover, #adminmenu li.opensub>a.menu-top, #adminmenu li>a.menu-top:focus, #adminmenu .wp-submenu a:focus, #adminmenu .wp-submenu a:hover, #adminmenu a:hover, #adminmenu li.menu-top>a:focus, #adminmenu li a:focus div.wp-menu-image:before, #adminmenu li.opensub div.wp-menu-image:before, #adminmenu li:hover div.wp-menu-image:before, #collapse-button:hover {
+color: rgb(240, 120, 208) ;
+}

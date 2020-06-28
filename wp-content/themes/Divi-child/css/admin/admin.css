@@ -1,0 +1,30 @@
+th#page {
+    width: 75px;
+}
+
+.wp-core-ui .button-primary {
+    background: #27176B;
+    border-color: #27176B;
+    color: #fff;
+    text-decoration: none;
+    text-shadow: none;
+}
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary.hover, .wp-core-ui .button-primary:focus, .wp-core-ui .button-primary:hover {
+    background: #AB1582;
+    border-color: #AB1582;
+    color: #fff;
+}
+.wp-core-ui .button-primary.focus, .wp-core-ui .button-primary:focus {
+    box-shadow: 0 0 0 1px #fff, 0 0 0 3px #AB1582;
+}
+.wp-core-ui .button-primary.active, .wp-core-ui .button-primary.active:focus, .wp-core-ui .button-primary.active:hover, .wp-core-ui .button-primary:active {
+    background: #AB1582;
+    border-color: #AB1582;
+    box-shadow: none;
+    color: #fff;
+}
+.wrap .add-new-h2:hover, .wrap .page-title-action:hover, .wp-core-ui .button-secondary:hover, .wp-core-ui .button.hover, .wp-core-ui .button:hover {
+    background: #AB1582;
+    border-color: #fff;
+    color: #fff;
+}

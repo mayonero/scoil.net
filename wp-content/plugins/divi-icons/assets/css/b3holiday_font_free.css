@@ -1,0 +1,386 @@
+@font-face {
+  font-family: 'Holiday-Icons-for-Divi';
+  src:  url('../fonts/Holiday-Icons-for-Divi.eot?1hn9bd');
+  src:  url('../fonts/Holiday-Icons-for-Divi.eot?1hn9bd#iefix') format('embedded-opentype'),
+    url('../fonts/Holiday-Icons-for-Divi.ttf?1hn9bd') format('truetype'),
+    url('../fonts/Holiday-Icons-for-Divi.woff?1hn9bd') format('woff'),
+    url('../fonts/Holiday-Icons-for-Divi.svg?1hn9bd#Holiday-Icons-for-Divi') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.et_font_icon li.b3-custom-icon-b3holidayicon:before{
+  /* i , use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Holiday-Icons-for-Divi' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hl-bauble-01:before {
+  content: "\e900";
+}
+.hl-candle-01:before {
+  content: "\e901";
+}
+.hl-gift-box:before {
+  content: "\e902";
+}
+.hl-dog:before {
+  content: "\e903";
+}
+.hl-shopping-bag:before {
+  content: "\e904";
+}
+.hl-star:before {
+  content: "\e905";
+}
+.hl-glove:before {
+  content: "\e906";
+}
+.hl-santa-hat:before {
+  content: "\e907";
+}
+.hl-christmas-tree:before {
+  content: "\e908";
+}
+.hl-gingerbread:before {
+  content: "\e909";
+}
+.hl-snowman:before {
+  content: "\e90a";
+}
+.hl-reindeer:before {
+  content: "\e90b";
+}
+.hl-gnome:before {
+  content: "\e90c";
+}
+.hl-christmas-ball:before {
+  content: "\e90d";
+}
+.hl-christmas-letter:before {
+  content: "\e90e";
+}
+.hl-lavender:before {
+  content: "\e90f";
+}
+.hl-christmas-chick:before {
+  content: "\e910";
+}
+.hl-house:before {
+  content: "\e911";
+}
+.hl-bell:before {
+  content: "\e912";
+}
+.hl-sleigh:before {
+  content: "\e913";
+}
+.hl-santa:before {
+  content: "\e914";
+}
+.hl-dish:before {
+  content: "\e915";
+}
+.hl-santas-beard:before {
+  content: "\e916";
+}
+.hl-angel:before {
+  content: "\e917";
+}
+.hl-christmas-bow:before {
+  content: "\e918";
+}
+.hl-christmas-sock:before {
+  content: "\e919";
+}
+.hl-candy-01:before {
+  content: "\e91a";
+}
+.hl-bauble-02:before {
+  content: "\e91b";
+}
+.hl-hat-01:before {
+  content: "\e91c";
+}
+.hl-lights:before {
+  content: "\e91d";
+}
+.hl-confetti:before {
+  content: "\e91e";
+}
+.hl-glasses:before {
+  content: "\e91f";
+}
+.hl-fireworks-01:before {
+  content: "\e920";
+}
+.hl-clock:before {
+  content: "\e921";
+}
+.hl-fireworks-02:before {
+  content: "\e922";
+}
+.hl-lollipops:before {
+  content: "\e923";
+}
+.hl-champagne:before {
+  content: "\e924";
+}
+.hl-mask:before {
+  content: "\e925";
+}
+.hl-fireworks-03:before {
+  content: "\e926";
+}
+.hl-fireworks-04:before {
+  content: "\e927";
+}
+.hl-moon:before {
+  content: "\e928";
+}
+.hl-eye:before {
+  content: "\e929";
+}
+.hl-bones:before {
+  content: "\e92a";
+}
+.hl-grave-01:before {
+  content: "\e92b";
+}
+.hl-candy-02:before {
+  content: "\e92c";
+}
+.hl-monster-01:before {
+  content: "\e92d";
+}
+.hl-pumpkin:before {
+  content: "\e92e";
+}
+.hl-skull:before {
+  content: "\e92f";
+}
+.hl-ghost:before {
+  content: "\e930";
+}
+.hl-mixture:before {
+  content: "\e931";
+}
+.hl-chopper:before {
+  content: "\e932";
+}
+.hl-hat-02:before {
+  content: "\e933";
+}
+.hl-monster-02:before {
+  content: "\e934";
+}
+.hl-baba-yaga:before {
+  content: "\e935";
+}
+.hl-grave-02:before {
+  content: "\e936";
+}
+.hl-bat:before {
+  content: "\e937";
+}
+.hl-monster-03:before {
+  content: "\e938";
+}
+.hl-sack:before {
+  content: "\e939";
+}
+.hl-spider:before {
+  content: "\e93a";
+}
+.hl-broom:before {
+  content: "\e93b";
+}
+.hl-delivery-01:before {
+  content: "\e93c";
+}
+.hl-money-sack:before {
+  content: "\e93d";
+}
+.hl-coin:before {
+  content: "\e93e";
+}
+.hl-label:before {
+  content: "\e93f";
+}
+.hl-shopping-cart:before {
+  content: "\e940";
+}
+.hl-delivery-02:before {
+  content: "\e941";
+}
+.hl-credit-card:before {
+  content: "\e942";
+}
+.hl-open:before {
+  content: "\e943";
+}
+.hl-sale:before {
+  content: "\e944";
+}
+.hl-shopping-bag1:before {
+  content: "\e945";
+}
+.hl-chicken-01:before {
+  content: "\e946";
+}
+.hl-rabbit:before {
+  content: "\e947";
+}
+.hl-egg-01:before {
+  content: "\e948";
+}
+.hl-candle-02:before {
+  content: "\e949";
+}
+.hl-sheep:before {
+  content: "\e94a";
+}
+.hl-egg-02:before {
+  content: "\e94b";
+}
+.hl-bird:before {
+  content: "\e94c";
+}
+.hl-chicken-02:before {
+  content: "\e94d";
+}
+.hl-fish:before {
+  content: "\e94e";
+}
+.hl-catkins:before {
+  content: "\e94f";
+}
+.hl-ice-cream:before {
+  content: "\e950";
+}
+.hl-fins:before {
+  content: "\e951";
+}
+.hl-luggage:before {
+  content: "\e952";
+}
+.hl-sunglasses:before {
+  content: "\e953";
+}
+.hl-umbrella:before {
+  content: "\e954";
+}
+.hl-hat-021:before {
+  content: "\e955";
+}
+.hl-drink:before {
+  content: "\e956";
+}
+.hl-slippers:before {
+  content: "\e957";
+}
+.hl-board-pass:before {
+  content: "\e958";
+}
+.hl-sun:before {
+  content: "\e959";
+}
+.hl-hat-03:before {
+  content: "\e95a";
+}
+.hl-drum:before {
+  content: "\e95b";
+}
+.hl-sousages:before {
+  content: "\e95c";
+}
+.hl-beer:before {
+  content: "\e95d";
+}
+.hl-mustache:before {
+  content: "\e95e";
+}
+.hl-bavarian-costume-01:before {
+  content: "\e95f";
+}
+.hl-bavarian-costume-02:before {
+  content: "\e960";
+}
+.hl-trumpet:before {
+  content: "\e961";
+}
+.hl-hot-dog:before {
+  content: "\e962";
+}
+.hl-brewery:before {
+  content: "\e963";
+}
+.hl-eye-hand:before {
+  content: "\e964";
+}
+.hl-laddu:before {
+  content: "\e965";
+}
+.hl-coins:before {
+  content: "\e966";
+}
+.hl-fireworks-05:before {
+  content: "\e967";
+}
+.hl-diwali:before {
+  content: "\e968";
+}
+.hl-cookie:before {
+  content: "\e969";
+}
+.hl-candle-03:before {
+  content: "\e96a";
+}
+.hl-bamboo:before {
+  content: "\e96b";
+}
+.hl-lantern-1:before {
+  content: "\e96c";
+}
+.hl-lantern-2:before {
+  content: "\e96d";
+}
+.hl-fan:before {
+  content: "\e96e";
+}
+.hl-rooster:before {
+  content: "\e96f";
+}
+.hl-lotus:before {
+  content: "\e970";
+}
+.hl-rice:before {
+  content: "\e971";
+}
+.hl-cloud:before {
+  content: "\e972";
+}
+.hl-decree:before {
+  content: "\e973";
+}
+.hl-barbeque:before {
+  content: "\e974";
+}
+.hl-decoration:before {
+  content: "\e975";
+}
+.hl-hat-031:before {
+  content: "\e976";
+}
+.hl-balloons:before {
+  content: "\e977";
+}

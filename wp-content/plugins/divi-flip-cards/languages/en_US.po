@@ -1,0 +1,1019 @@
+# Copyright (C) 2020 B3 Multimedia Solutions
+# This file is distributed under the same license as the Divi Flip Cards package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Flip Cards 1.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/divi-flip-cards\n"
+"POT-Creation-Date: 2020-01-09 12:12:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:9
+msgid "Flip Cards"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:18
+msgid "Front Card"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:19
+msgid "Back Card"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:20
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:59
+msgid "Front Image & Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:21
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:63
+msgid "Back Image & Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:23
+msgid "Front Background"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:26
+msgid "Back Background"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:67
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:206
+msgid "Back Button Style"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:71
+msgid "Front Card Style"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:75
+msgid "Back Card Style"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:80
+msgid "Flip Animation"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:84
+msgid "Sizing"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:88
+msgid "Image Filter"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:96
+msgid "Animation"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:100
+msgid "Attributes"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:111
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:332
+msgid "Front Card Title"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:140
+msgid "Front Card Body"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:156
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:345
+msgid "Back Card Title"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:182
+msgid "Back Card Body"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:269
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:421
+msgid "Front Image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:283
+msgid "Back Image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:297
+msgid "Front Box"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:309
+msgid "Back Box"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:324
+msgid "Front Card Container"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:328
+msgid "Front/Back Card Image/Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:336
+msgid "Front Card Content"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:341
+msgid "Back Card Container"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:349
+msgid "Back Card Content"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:353
+msgid "Back Card Button"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:385
+msgid "Front Title"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:388
+msgid "Display Title on Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:393
+msgid "Use Icon in Front Card"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:397
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:464
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:505
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:565
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:715
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:741
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:770
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:838
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:867
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:892
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:979
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:992
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1099
+msgid "No"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:398
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:465
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:506
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:566
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:716
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:742
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:771
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:839
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:868
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:893
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:980
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:993
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1100
+msgid "Yes"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:407
+msgid "Choose Whether Icon Display or not On Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:410
+msgid "Front Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:417
+msgid "Choose an Icon To Display At The Top Of Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:424
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:481
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:584
+msgid "Upload an image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:425
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:482
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:585
+msgid "Choose an Image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:426
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:483
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:586
+msgid "Set As Image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:428
+msgid "Upload an Image To Display At The Top Of Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:432
+msgid "Front Content"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:436
+msgid "Add Content on Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:444
+msgid "Back Title"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:447
+msgid "Display Title on Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:452
+msgid "Back Content"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:456
+msgid "Add Content on Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:460
+msgid "Use Icon in Back Card"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:475
+msgid "Choose Whether Icon Display or not On Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:478
+msgid "Back Side Image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:485
+msgid "Upload an Image To Display At The Top Of Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:489
+msgid "Back Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:497
+msgid "Choose an Icon To Display With Your Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:501
+msgid "Use Button in Back Card"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:514
+msgid ""
+"If ON then Display button on Back Card. Note: If 3D Flip Mode enabled, "
+"button hover and link won’t work. Please use Link tab to add card URL."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:517
+msgid "Button Text"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:521
+msgid "Add Button Text on Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:526
+msgid "Button Url"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:529
+msgid "Add Button Url on Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:534
+msgid "Button Url Opens"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:538
+msgid "In The Same Window"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:539
+msgid "In The New Tab"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:544
+msgid "Button Url Open in New Tab or not on Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:551
+msgid "Back Background Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:555
+msgid "Set Background Color of Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:560
+msgid "Use Image In Background"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:578
+msgid "Display Background Image of Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:581
+msgid "Back Background Image"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:589
+msgid "Set Background Image of Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:593
+msgid "Background Image Size"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:597
+msgid "Cover"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:598
+msgid "Fit"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:599
+msgid "Actual Size"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:609
+msgid "Background Image Position"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:613
+msgid "Top Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:614
+msgid "Top Center"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:615
+msgid "Top Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:616
+msgid "Center Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:617
+msgid "Center"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:618
+msgid "Center Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:619
+msgid "Bottom Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:620
+msgid "Bottom Center"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:621
+msgid "Bottom Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:631
+msgid "Background Image Repeat"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:635
+msgid "No Repeat"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:636
+msgid "Repeat"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:637
+msgid "Repeat X (horizontal)"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:638
+msgid "Repeat Y (vertical)"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:639
+msgid "Space"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:640
+msgid "Round"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:649
+msgid "Background Image Blend"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:653
+msgid "Normal"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:654
+msgid "Multiply"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:655
+msgid "Screen"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:656
+msgid "Overlay"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:657
+msgid "Darken"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:658
+msgid "Lighten"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:659
+msgid "Color Dodge"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:660
+msgid "Color Burn"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:661
+msgid "Hard Light"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:662
+msgid "Soft Light"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:663
+msgid "Difference"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:664
+msgid "Exclusion"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:665
+msgid "Hue"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:666
+msgid "Saturation"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:667
+msgid "Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:668
+msgid "Luminosity"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:680
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:806
+msgid "Top"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:682
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:808
+msgid "Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:684
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:810
+msgid "Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:689
+msgid "Front Image/Icon Placement"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:696
+msgid "Set Image/Icon Placement for Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:699
+msgid "Front Icon Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:701
+msgid "Set Front Card Icon Color."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:709
+msgid "Front Circle Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:721
+msgid "Choose Whether Icon Set Above Should Display Within a Circle for Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:725
+msgid "Front Circle Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:727
+msgid "Define a Custom color for the Front Card Icon Circle."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:737
+msgid "Front Show Circle Border"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:747
+msgid "Choose Whether If The Icon Circle Border should Display for Front Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:754
+msgid "Front Circle Border Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:756
+msgid "Define a CustomCcolor for the Front Card Icon circle Border."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:766
+msgid "Use Front Icon Font Size"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:785
+msgid "Icon Font Size"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:815
+msgid "Back Image/Icon Placement"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:821
+msgid "Choose Back Card Icon Placement."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:824
+msgid "Back Icon Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:826
+msgid "Define a Custom Color for Back Card Icon."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:834
+msgid "Back Circle Icon"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:845
+msgid "Choose Whether Icon Set above should Display Within a Circle for Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:849
+msgid "Back Circle Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:851
+msgid "Define a Custom Color for the Icon Circle for Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:860
+msgid "Back Show Circle Border"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:870
+msgid "Choose Whether If the Icon Circle Border should Display for Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:877
+msgid "Back Circle Border Color"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:879
+msgid "Define a Custom Color for the Icon Circle Border for Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:888
+msgid "Use Back Icon Font Size"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:906
+msgid "Back Icon Font Size"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:927
+msgid "3D Box Tilt"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:928
+msgid "3D Box Flip"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:929
+msgid "3D Box Cover Open"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:931
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:936
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:945
+msgid "Right to Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:932
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:937
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:946
+msgid "Left to Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:933
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:938
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:947
+msgid "Top to Bottom"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:934
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:939
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:948
+msgid "Bottom to Top "
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:940
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:949
+msgid "Bottom-Right to Top-Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:941
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:950
+msgid "Bottom-Left to Top-Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:942
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:951
+msgid "Top-Left to Bottom-Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:943
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:952
+msgid "Top-Right to Bottom-Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:954
+msgid "Linear"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:955
+msgid "Ease"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:956
+msgid "EaseInOut"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:957
+msgid "EaseIn"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:958
+msgid "EaseOut"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:959
+msgid "Bounce"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:960
+msgid "BounceIn"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:961
+msgid "BounceOut"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:962
+msgid "EaseInOutCircle"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:963
+msgid "EaseInOutExpo"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:965
+msgid "FadeInOut"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:966
+msgid "ZoomIn"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:967
+msgid "ZoomOut"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:968
+msgid "SlideUp"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:969
+msgid "SlideDown"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:970
+msgid "SlideLeft"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:971
+msgid "SlideRight"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:972
+msgid "Rotate"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:975
+msgid "Disable Flip "
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:985
+msgid "Disable Flip."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:988
+msgid "Use 3D/Boxed Mode"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:999
+msgid "Set 3D/Boxed Mode."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1002
+msgid "Select 3D/Boxed Mode"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1012
+msgid "Choose 3D/Boxed Mode."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1015
+msgid "Select Direction"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1026
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1039
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1053
+msgid "Choose Flip Direction."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1029
+msgid "Select Direction Default"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1042
+msgid "Select Direction Cover"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1056
+msgid "Select Animation"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1064
+msgid "Choose Hover Animation."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1067
+msgid "Select Transitions"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1074
+msgid "Choose flip Transitions."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1077
+msgid "Flip Animation Speed"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1082
+msgid "Set Flip Animation Speed(s)."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1095
+msgid "Use 3D Tilt Effect on Back Card"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1105
+msgid "Set 3D Tilt Effect on Back Card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1108
+msgid "Tilt Animation Max Value"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1121
+msgid "Set Tilt Animation Max value."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1125
+msgid "Tilt Animation Perspective"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1138
+msgid "Set Tilt Animation Perspective."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1141
+msgid "Tilt Animation Speed"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1147
+msgid "Set Tilt Animation Speed (s)."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1166
+msgid "Image Width"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1182
+msgid "Content Width"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1199
+msgid "Image/Icon Animation"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1203
+msgid "Top To Bottom"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1204
+msgid "Left To Right"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1205
+msgid "Right To Left"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1206
+msgid "Bottom To Top"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1207
+msgid "No Animation"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1211
+msgid "This Controls the Direction of the Lazy-loading Animation."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1216
+msgid "Front Image Alt Text"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1219
+msgid "Define the HTML ALT text for your image here of front card."
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1226
+msgid "Front Box Shadow"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1233
+msgid "Front Image Box Shadow"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1241
+msgid "Back Image Box Shadow"
+msgstr ""
+
+#: includes/modules/DiviFlipCards/DiviFlipCards.php:1249
+msgid "Back Box Shadow"
+msgstr ""
+
+#: lib/dfc-license.php:111
+msgid " Activation"
+msgstr ""
+
+#: lib/dfc-license.php:112
+msgid " API Key Activation"
+msgstr ""
+
+#: lib/dfc-license.php:113 lib/dfc-license.php:379
+msgid "API Key Activation"
+msgstr ""
+
+#: lib/dfc-license.php:114
+msgid "API Key Deactivation"
+msgstr ""
+
+#: lib/dfc-license.php:214
+msgid ""
+"Attempt to migrate data failed. Deactivate then reactive this plugin or "
+"theme, then enter your API Key on the settings screen to receive software "
+"updates. Contact support if assistance is required."
+msgstr ""
+
+#: lib/dfc-license.php:313
+msgid ""
+"The <strong>%s</strong> API Key has not been activated, so the %s is "
+"inactive! %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+#: lib/dfc-license.php:330
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+#: lib/dfc-license.php:362 lib/dfc-license.php:366
+msgid "Save Changes"
+msgstr ""
+
+#: lib/dfc-license.php:383
+msgid "API Key"
+msgstr ""
+
+#: lib/dfc-license.php:387
+msgid "API Key Status"
+msgstr ""
+
+#: lib/dfc-license.php:396
+msgid "API Deactivation"
+msgstr ""
+
+#: lib/dfc-license.php:400
+msgid "Deactivate API Key"
+msgstr ""
+
+#: lib/dfc-license.php:412
+msgid "Activated"
+msgstr ""
+
+#: lib/dfc-license.php:412
+msgid "Deactivated"
+msgstr ""
+
+#: lib/dfc-license.php:478
+msgid "%s activated. "
+msgstr ""
+
+#: lib/dfc-license.php:484
+msgid ""
+"Connection failed to the License Key API server. Try again later. There may "
+"be a problem on your server preventing outgoing requests, or the store is "
+"blocking your request to activate the plugin/theme."
+msgstr ""
+
+#: lib/dfc-license.php:521
+msgid "API Key deactivated. "
+msgstr ""
+
+#: lib/dfc-license.php:574
+msgid ""
+"The API Key could not be deactivated. Use the API Key Deactivation tab to "
+"manually deactivate the API Key before activating a new API Key. If all "
+"else fails, go to Plugins, then deactivate and reactivate this plugin, or "
+"if a theme change themes, then change back to this theme, then go to the "
+"Settings for this plugin/theme and enter the API Key information again to "
+"activate it. Also check the My Account dashboard to see if the API Key for "
+"this site was still active before the error message was displayed."
+msgstr ""
+
+#: lib/dfc-license.php:585
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Divi Flip Cards"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://flipcards.b3multimedia.ie"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"The Ultimate Divi Plugin for Creating Beautiful and Interactive Content "
+"Boxes"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "B3 Multimedia Solutions"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.b3multimedia.ie"
+msgstr ""

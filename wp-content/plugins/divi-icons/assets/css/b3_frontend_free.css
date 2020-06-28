@@ -1,0 +1,125 @@
+/*ET Icon*/
+body .et_pb_button.b3_divi_et_icon_fd:before,
+body .et_pb_button.b3_divi_et_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_et_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_et_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_et_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_et_icon_fd:after,
+body .et_pb_more_button.b3_divi_et_icon_fd:before,
+body .et_pb_more_button.b3_divi_et_icon_fd:after,
+body .et_pb_button_one.b3_divi_et_icon_fd:before,
+body .et_pb_button_one.b3_divi_et_icon_fd:after,
+body .et_pb_button_two.b3_divi_et_icon_fd:before,
+body .et_pb_button_two.b3_divi_et_icon_fd:after,
+body .et-pb-icon.b3_divi_et_icon_fd,
+body .et_overlay.b3_divi_et_icon_fd:before,
+body .et_overlay.b3_divi_et_icon_fd:after,
+body .et_extra_overlay.b3_divi_et_icon_fd:before,
+body .et_extra_overlay.b3_divi_et_icon_fd:after,
+body .et_pb_shop.b3_divi_et_icon_fd:before,
+body .et_pb_shop.b3_divi_et_icon_fd:after,
+.et_font_icon li.b3_divi_et_icon_fd:before,
+body .et:before,body .et:after,
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_et_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_et_icon_fd.et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_et_icon_fd[data-iconfamily="et"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_et_icon_fd[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et_pb_custom_button_icon[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et_pb_custom_button_icon[data-iconfamily="et"]:before{font-family: 'ETModules' !important;}
+
+/*B3 Holiday Icon*/
+body .et_pb_button.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button.b3_divi_b3holidayicon_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_b3holidayicon_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_more_button.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_more_button.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_button_one.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button_one.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_button_two.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button_two.b3_divi_b3holidayicon_icon_fd:after,
+body .et-pb-icon.b3_divi_b3holidayicon_icon_fd,
+body .et_overlay.b3_divi_b3holidayicon_icon_fd:before,
+body .et_overlay.b3_divi_b3holidayicon_icon_fd:after,
+body .et_extra_overlay.b3_divi_b3holidayicon_icon_fd:before,
+body .et_extra_overlay.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_shop.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_shop.b3_divi_b3holidayicon_icon_fd:after,
+.et_font_icon li.b3_divi_b3holidayicon_icon_fd:before,
+body .et:before,body .et:after,
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_b3holidayicon_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_b3holidayicon_icon_fd.et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:before{font-family: 'Holiday-Icons-for-Divi' !important;}
+
+/*B3 Line Icon*/
+body .et_pb_button.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button.b3_divi_b3lineicon_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_b3lineicon_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_more_button.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_more_button.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button_one.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button_one.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button_two.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button_two.b3_divi_b3lineicon_icon_fd:after,
+body .et-pb-icon.b3_divi_b3lineicon_icon_fd,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:after,
+body .et_extra_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_extra_overlay.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_shop.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_shop.b3_divi_b3lineicon_icon_fd:after,
+.et_font_icon li.b3_divi_b3lineicon_icon_fd:before,
+body .et:before,body .et:after,
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_b3lineicon_icon_fd:after,
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_b3lineicon_icon_fd.et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:before,
+body.et-db.b3-icon-pro #page-container #et-boc .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container #et-boc .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:before{font-family: 'B3-Line-Icons' !important;}
+
+
+/* ADMIM CSS */
+/*ET Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_et_icon_fd.et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_et_icon_fd[data-iconfamily="et"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_et_icon_fd[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="et"]:before{font-family: 'ETModules' !important;}
+
+/*B3 Holiday Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3holidayicon_icon_fd.et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:before{font-family: 'Holiday-Icons-for-Divi' !important;}
+
+/*B3 Line Icon*/
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3lineicon_icon_fd.et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:before{font-family: 'B3-Line-Icons' !important;}
+
+/*B3 Line Icon*/
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_b3lineicon_icon_fd{background-color:#85afe51f !important;}
+/*Active Icon*/
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_icons_list.active{ background-color: #008bdb !important;border-radius: 0px;color: #fff;}
+/*Global*/
+.et-db #et-boc ul.et-fb-font-icon-list {max-width: 100%; overflow-y: scroll;max-height: 250px;}
+.et-db #et-boc .et-fb-font-icon-list li {font-size: 20px !important;line-height: 22px !important;width: 50px;height: 50px;text-align: center;padding: 12px 15px 0px !important;vertical-align: middle;}
+.et-pb-icon.hide_icon,.et_pb_button.hide_icon:after,.et_pb_button.hide_icon:before,.et_overlay.hide_icon:before,.swiper-button-prev.hide_icon,.swiper-button-next.hide_icon {display:none !important;}
+.show_icon.et-pb-icon,.et_pb_button.show_icon:after,.et_pb_button.show_icon:after,.et_overlay.show_icon:before,.swiper-button-prev.show_icon,.swiper-button-next.show_icon{display:inline-block;}

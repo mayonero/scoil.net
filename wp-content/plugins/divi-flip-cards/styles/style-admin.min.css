@@ -1,0 +1,6 @@
+.b3m_flip_card{background-color:#0a1b2d9e !important;color:#FFFFFF  !important;}
+.b3m_flip_card:hover{background-color:#142b44e8 !important;color:#FFFFFF  !important;}
+
+.et-pb-all-modules .b3m_flip_card:before, .et_pb_saved_layouts_list .b3m_flip_card:before{
+ font-family:"dashicons"; content: "\f463";
+}

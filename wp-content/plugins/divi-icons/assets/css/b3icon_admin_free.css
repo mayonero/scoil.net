@@ -1,0 +1,139 @@
+/*Active Icon*/
+.et_font_icon .et_active{background-color: #008bdb !important;border-radius: 0px;color: #fff;}
+/*Global*/
+body.wp-admin ul.et_font_icon {max-width: 100%; overflow-y: scroll;max-height: 250px;}
+.et-pb-option--select_icon > label {float: none;width: auto;margin-bottom: 20px;}
+body.wp-admin .et_font_icon li {font-size: 20px;line-height: 22px;width: 32px;height: 32px;text-align: center;padding: 10px 7px 0px;vertical-align: middle;}
+/*B3 Line Icon*/
+.et_font_icon li.b3-custom-icon-b3lineicon{background-color:#85afe51f;}
+#b3iconsfree-1 .et-epanel-box:nth-child(1) .et-box-content {width: 100%;margin: auto;background: #f1f5fa;border-left: 4px solid #c9ced5;padding: 20px;color: #8e969f;font-size: 15px;margin-top: -30px;}
+#b3iconsfree-1 .et-epanel-box:nth-child(1) .et-box-content .info i{display: inline-block;-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;box-sizing: border-box;font-family: ETmodules;font-size: 24px;font-weight: 400;font-style: normal;font-variant: normal;-webkit-font-smoothing: antialiased;line-height: 1;text-transform: none;speak: none;margin-right: 15px;vertical-align: middle;color:rgb(202, 206, 214);}
+#b3iconsfree-1 .et-epanel-box:nth-child(1) .et-box-description{display:none;}
+#b3iconsfree-1 .et-epanel-box .ui-widget-content a {color:#2189e2}
+body:not(.b3-icon-holiday) #b3iconsfree-1 .et-epanel-box:nth-child(3) .et-box-content,body:not(.b3-icon-holiday) #b3iconsfree-1 .et-epanel-box:nth-child(4) .et-box-content { width: auto;}
+.b3-icon-holiday #b3iconsfree-1 .et-epanel-box:nth-child(4) .et-box-content,.b3-icon-holiday #b3iconsfree-1 .et-epanel-box:nth-child(5) .et-box-content { width: auto;}
+/* START TOOLTIP STYLES */
+[tooltip] {position: relative; }
+[tooltip]::before,
+[tooltip]::after {text-transform: none; font-size: 1em; line-height: 1.4;user-select: none;pointer-events: none;position: absolute;display: none;opacity: 0;}
+[tooltip]::before {content: '';border: 5px solid transparent; z-index: 1001; }
+[tooltip]::after {content: attr(tooltip); text-align: center;min-width: 20em;max-width: 30em;white-space: normal;overflow: hidden;text-overflow: ellipsis;padding: 2ch 3.5ch;
+ border-radius: .3ch;box-shadow: 0 1em 2em -.5em rgba(0, 0, 0, 0.35);background: #333;color: #fff;z-index: 1000;}
+[tooltip]:hover::before,[tooltip]:hover::after {display: block;}
+[tooltip='']::before,[tooltip='']::after {display: none !important;}
+[tooltip][flow^="right"]::before {top: 50%;border-left-width: 0;border-right-color: #333;right: calc(0em - 5px);transform: translate(.5em, -50%);}
+[tooltip][flow^="right"]::after {top: 50%;left: calc(100% + 5px);transform: translate(.5em, -50%);}
+/* KEYFRAMES */
+@keyframes tooltips-vert {
+  to {opacity: .9;transform: translate(-50%, 0);}
+}
+@keyframes tooltips-horz {
+  to {opacity: .9;transform: translate(0, -50%);}
+}
+[tooltip][flow^="right"]:hover::before,[tooltip][flow^="right"]:hover::after {animation: tooltips-horz 300ms ease-out forwards;}
+
+/*B3 Holiday Icon*/
+body .et_pb_button.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button.b3_divi_b3holidayicon_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_b3holidayicon_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_more_button.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_more_button.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_button_one.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button_one.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_button_two.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_button_two.b3_divi_b3holidayicon_icon_fd:after,
+body .et-pb-icon.b3_divi_b3holidayicon_icon_fd,
+body .et_overlay.b3_divi_b3holidayicon_icon_fd:before,
+body .et_overlay.b3_divi_b3holidayicon_icon_fd:after,
+body .et_extra_overlay.b3_divi_b3holidayicon_icon_fd:before,
+body .et_extra_overlay.b3_divi_b3holidayicon_icon_fd:after,
+body .et_pb_shop.b3_divi_b3holidayicon_icon_fd:before,
+body .et_pb_shop.b3_divi_b3holidayicon_icon_fd:after,
+.et_font_icon li.b3_divi_b3holidayicon_icon_fd:before,
+body .et:before,body .et:after,
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_b3holidayicon_icon_fd:after,
+.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_b3holidayicon_icon_fd:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3holidayicon_icon_fd.et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-pb-icon[data-iconfamily="b3holidayicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3holidayicon_icon_fd[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3holidayicon"]:before{font-family: 'Holiday-Icons-for-Divi' !important;}
+
+/*ET Icon*/
+body .et_pb_button.b3_divi_et_icon_fd:before,
+body .et_pb_button.b3_divi_et_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_et_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_et_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_et_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_et_icon_fd:after,
+body .et_pb_more_button.b3_divi_et_icon_fd:before,
+body .et_pb_more_button.b3_divi_et_icon_fd:after,
+body .et_pb_button_one.b3_divi_et_icon_fd:before,
+body .et_pb_button_one.b3_divi_et_icon_fd:after,
+body .et_pb_button_two.b3_divi_et_icon_fd:before,
+body .et_pb_button_two.b3_divi_et_icon_fd:after,
+body .et-pb-icon.b3_divi_et_icon_fd,
+body .et_overlay.b3_divi_et_icon_fd:before,
+body .et_overlay.b3_divi_et_icon_fd:after,
+body .et_extra_overlay.b3_divi_et_icon_fd:before,
+body .et_extra_overlay.b3_divi_et_icon_fd:after,
+body .et_pb_shop.b3_divi_et_icon_fd:before,
+body .et_pb_shop.b3_divi_et_icon_fd:after,
+.et_font_icon li.b3_divi_et_icon_fd:before,
+body .et:before,body .et:after,
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_et_icon_fd:after,
+.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_et_icon_fd:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_et_icon_fd.et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-pb-icon[data-iconfamily="et"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_et_icon_fd[data-iconfamily="et"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_et_icon_fd[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="et"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="et"]:before{font-family: 'ETModules' !important;}
+
+/*B3 Line Icon*/
+body .et_pb_button.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button.b3_divi_b3lineicon_icon_fd:after,
+body [class^="et_pb_button_"].b3_divi_b3lineicon_icon_fd:before,
+body [class^="et_pb_button_"].b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_custom_button_icon.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_custom_button_icon.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_more_button.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_more_button.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button_one.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button_one.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_button_two.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_button_two.b3_divi_b3lineicon_icon_fd:after,
+body .et-pb-icon.b3_divi_b3lineicon_icon_fd,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_overlay.b3_divi_b3lineicon_icon_fd:after,
+body .et_extra_overlay.b3_divi_b3lineicon_icon_fd:before,
+body .et_extra_overlay.b3_divi_b3lineicon_icon_fd:after,
+body .et_pb_shop.b3_divi_b3lineicon_icon_fd:before,
+body .et_pb_shop.b3_divi_b3lineicon_icon_fd:after,
+.et_font_icon li.b3_divi_b3lineicon_icon_fd:before,
+body .et:before,body .et:after,
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_b3lineicon_icon_fd:after,
+.et-db #et-boc .et-l .et-fb-font-icon-list li.b3_divi_b3lineicon_icon_fd:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3lineicon_icon_fd.et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et-pb-icon[data-iconfamily="b3lineicon"],
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:before,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .b3_divi_b3lineicon_icon_fd[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:after,
+body.et-db.b3-icon-pro #page-container-bfb #et-boc .et_pb_custom_button_icon[data-iconfamily="b3lineicon"]:before{font-family: 'B3-Line-Icons' !important;}
+
+/*B3 Line Icon*/
+.et-fb-font-icon-list li.b3_divi_icons_list.b3_divi_b3lineicon_icon_fd{background-color:#85afe51f !important;}
+/*Active Icon*/
+.et-db #et-boc .et-fb-font-icon-list li.b3_divi_icons_list.active{ background-color: #008bdb !important;border-radius: 0px;color: #fff;}
+/*Global*/
+.et-db #et-boc ul.et-fb-font-icon-list {max-width: 100%; overflow-y: scroll;max-height: 250px;}
+.et-db #et-boc .et-fb-font-icon-list li {font-size: 20px !important;line-height: 22px !important;width: 50px;height: 50px;text-align: center;padding: 12px 15px 0px !important;vertical-align: middle;}
+
+.b3_active.b3_filter{border: 1px solid #A0A9B2;}
+.et-pb-icon.hide_icon{display:none;}
+.show_icon.et-pb-icon{display:inline-block;}

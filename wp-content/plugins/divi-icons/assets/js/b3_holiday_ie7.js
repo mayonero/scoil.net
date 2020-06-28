@@ -1,0 +1,151 @@
+/* To avoid CSS expressions while still supporting IE 7 and IE 6, use this script */
+/* The script tag referencing this file must be placed before the ending body tag. */
+
+/* Use conditional comments in order to target IE 7 and older:
+	<!--[if lt IE 8]><!-->
+	<script src="ie7/ie7.js"></script>
+	<!--<![endif]-->
+*/
+
+(function() {
+	function addIcon(el, entity) {
+		var html = el.innerHTML;
+		el.innerHTML = '<span style="font-family: \'Holiday-Icons-for-Divi\'">' + entity + '</span>' + html;
+	}
+	var icons = {
+		'hl-bauble-01': '&#xe900;',
+		'hl-candle-01': '&#xe901;',
+		'hl-gift-box': '&#xe902;',
+		'hl-dog': '&#xe903;',
+		'hl-shopping-bag': '&#xe904;',
+		'hl-star': '&#xe905;',
+		'hl-glove': '&#xe906;',
+		'hl-santa-hat': '&#xe907;',
+		'hl-christmas-tree': '&#xe908;',
+		'hl-gingerbread': '&#xe909;',
+		'hl-snowman': '&#xe90a;',
+		'hl-reindeer': '&#xe90b;',
+		'hl-gnome': '&#xe90c;',
+		'hl-christmas-ball': '&#xe90d;',
+		'hl-christmas-letter': '&#xe90e;',
+		'hl-lavender': '&#xe90f;',
+		'hl-christmas-chick': '&#xe910;',
+		'hl-house': '&#xe911;',
+		'hl-bell': '&#xe912;',
+		'hl-sleigh': '&#xe913;',
+		'hl-santa': '&#xe914;',
+		'hl-dish': '&#xe915;',
+		'hl-santas-beard': '&#xe916;',
+		'hl-angel': '&#xe917;',
+		'hl-christmas-bow': '&#xe918;',
+		'hl-christmas-sock': '&#xe919;',
+		'hl-candy-01': '&#xe91a;',
+		'hl-bauble-02': '&#xe91b;',
+		'hl-hat-01': '&#xe91c;',
+		'hl-lights': '&#xe91d;',
+		'hl-confetti': '&#xe91e;',
+		'hl-glasses': '&#xe91f;',
+		'hl-fireworks-01': '&#xe920;',
+		'hl-clock': '&#xe921;',
+		'hl-fireworks-02': '&#xe922;',
+		'hl-lollipops': '&#xe923;',
+		'hl-champagne': '&#xe924;',
+		'hl-mask': '&#xe925;',
+		'hl-fireworks-03': '&#xe926;',
+		'hl-fireworks-04': '&#xe927;',
+		'hl-moon': '&#xe928;',
+		'hl-eye': '&#xe929;',
+		'hl-bones': '&#xe92a;',
+		'hl-grave-01': '&#xe92b;',
+		'hl-candy-02': '&#xe92c;',
+		'hl-monster-01': '&#xe92d;',
+		'hl-pumpkin': '&#xe92e;',
+		'hl-skull': '&#xe92f;',
+		'hl-ghost': '&#xe930;',
+		'hl-mixture': '&#xe931;',
+		'hl-chopper': '&#xe932;',
+		'hl-hat-02': '&#xe933;',
+		'hl-monster-02': '&#xe934;',
+		'hl-baba-yaga': '&#xe935;',
+		'hl-grave-02': '&#xe936;',
+		'hl-bat': '&#xe937;',
+		'hl-monster-03': '&#xe938;',
+		'hl-sack': '&#xe939;',
+		'hl-spider': '&#xe93a;',
+		'hl-broom': '&#xe93b;',
+		'hl-delivery-01': '&#xe93c;',
+		'hl-money-sack': '&#xe93d;',
+		'hl-coin': '&#xe93e;',
+		'hl-label': '&#xe93f;',
+		'hl-shopping-cart': '&#xe940;',
+		'hl-delivery-02': '&#xe941;',
+		'hl-credit-card': '&#xe942;',
+		'hl-open': '&#xe943;',
+		'hl-sale': '&#xe944;',
+		'hl-shopping-bag1': '&#xe945;',
+		'hl-chicken-01': '&#xe946;',
+		'hl-rabbit': '&#xe947;',
+		'hl-egg-01': '&#xe948;',
+		'hl-candle-02': '&#xe949;',
+		'hl-sheep': '&#xe94a;',
+		'hl-egg-02': '&#xe94b;',
+		'hl-bird': '&#xe94c;',
+		'hl-chicken-02': '&#xe94d;',
+		'hl-fish': '&#xe94e;',
+		'hl-catkins': '&#xe94f;',
+		'hl-ice-cream': '&#xe950;',
+		'hl-fins': '&#xe951;',
+		'hl-luggage': '&#xe952;',
+		'hl-sunglasses': '&#xe953;',
+		'hl-umbrella': '&#xe954;',
+		'hl-hat-021': '&#xe955;',
+		'hl-drink': '&#xe956;',
+		'hl-slippers': '&#xe957;',
+		'hl-board-pass': '&#xe958;',
+		'hl-sun': '&#xe959;',
+		'hl-hat-03': '&#xe95a;',
+		'hl-drum': '&#xe95b;',
+		'hl-sousages': '&#xe95c;',
+		'hl-beer': '&#xe95d;',
+		'hl-mustache': '&#xe95e;',
+		'hl-bavarian-costume-01': '&#xe95f;',
+		'hl-bavarian-costume-02': '&#xe960;',
+		'hl-trumpet': '&#xe961;',
+		'hl-hot-dog': '&#xe962;',
+		'hl-brewery': '&#xe963;',
+		'hl-eye-hand': '&#xe964;',
+		'hl-laddu': '&#xe965;',
+		'hl-coins': '&#xe966;',
+		'hl-fireworks-05': '&#xe967;',
+		'hl-diwali': '&#xe968;',
+		'hl-cookie': '&#xe969;',
+		'hl-candle-03': '&#xe96a;',
+		'hl-bamboo': '&#xe96b;',
+		'hl-lantern-1': '&#xe96c;',
+		'hl-lantern-2': '&#xe96d;',
+		'hl-fan': '&#xe96e;',
+		'hl-rooster': '&#xe96f;',
+		'hl-lotus': '&#xe970;',
+		'hl-rice': '&#xe971;',
+		'hl-cloud': '&#xe972;',
+		'hl-decree': '&#xe973;',
+		'hl-barbeque': '&#xe974;',
+		'hl-decoration': '&#xe975;',
+		'hl-hat-031': '&#xe976;',
+		'hl-balloons': '&#xe977;',
+		'0': 0
+		},
+		els = document.getElementsByTagName('*'),
+		i, c, el;
+	for (i = 0; ; i += 1) {
+		el = els[i];
+		if(!el) {
+			break;
+		}
+		c = el.className;
+		c = c.match(/hl-[^\s'"]+/);
+		if (c && icons[c[0]]) {
+			addIcon(el, icons[c[0]]);
+		}
+	}
+}());
